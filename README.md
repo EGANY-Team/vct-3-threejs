@@ -2,13 +2,15 @@
 
 ## Giới thiệu
 
+![demo](./vct-threejs.png)
+
 Đây là project dùng để demo trong bài viết [Vọc cùng Thành #3 - Three.js]().
 
 ## Cài đặt
 
 ```bash
 # clone repo
-git clone
+git clone https://github.com/EGANY-Team/vct-3-threejs
 
 # install
 cd vct-3-threejs
