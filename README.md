@@ -4,7 +4,9 @@
 
 ![demo](./vct-threejs.png)
 
-Đây là project dùng để demo trong bài viết [Vọc cùng Thành #3 - Three.js]().
+Đây là project dùng để demo trong bài viết [Vọc cùng Thành #3 - Three.js](https://vct-3-threejs.now.sh/).
+
+Demo: https://vct-3-threejs.now.sh
 
 ## Cài đặt
 
