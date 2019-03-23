@@ -1,0 +1,19 @@
+{
+  "name": "vct-3-threejs",
+  "version": "1.0.0",
+  "description": "Vọc cùng Thành #3 - Threejs demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --no-source-maps --out-dir build"
+  },
+  "keywords": [],
+  "author": "thanh.nguyen@egany.com",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "three": "^0.102.1"
+  }
+}
